@@ -1,4 +1,4 @@
-# iSangeet
+# iSangeet ✨
 A Music Player App
 # About
 • Created a music player app where you can easily listen songs with a play/pause functionality .\
